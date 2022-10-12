@@ -331,7 +331,7 @@ section{
          top:0; left:0;
          height: 100%;
          width: 100%;
-         background: linear-gradient(90deg, var(--white), transparent);
+         background: linear-gradient(90deg, rgba(0, 0, 0, 0.735), transparent);
       }
 
       .content{
@@ -341,11 +341,13 @@ section{
          h3{
             @include titleText(6rem);
             text-transform: uppercase;
+            color: rgb(211, 211, 211);
          }
 
          p{
             @include graphText(1.4rem);
             padding:1rem 0;
+            color: rgb(211, 211, 211);
          }
       }
    }
