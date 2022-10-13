@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="images/read/readme.png" alt="imagem NewPhase">
+  <img src="readme-img.png" alt="imagem NewPhase">
 </div>
 
 
